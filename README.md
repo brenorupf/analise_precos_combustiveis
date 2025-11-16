@@ -11,6 +11,9 @@ O objetivo é permitir que o usuário **compare preços em diferentes recortes g
 
 O relatório foi desenvolvido integralmente no **Power BI**.
 
+📊 **Acesse o relatório completo:**  
+👉 [Clique aqui para visualizar](https://app.powerbi.com/view?r=eyJrIjoiZTY3MWZlZjgtYWY5Yi00MWEwLThkYjMtYmZjMTFiNDJkN2ZiIiwidCI6IjYzOTc3ZmU3LTAwNjgtNDI0ZC05YTAyLTNmYTg3MGQ5ZGE5MyJ9)
+
 ---
 
 ## 📌 Fonte
